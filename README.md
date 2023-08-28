@@ -18,8 +18,12 @@ The Robotic Car Safety System is a sophisticated project designed to augment the
 - Infrared (IR) Sensor
 - Motor Controller Module (L298N)
 - Various LEDs and buzzers
-  The system performs the following tasks:
 
+Libraries used: 
+-Arduino-LiquidCrystal-I2C-library
+-DHT-sensor-library
+
+  The system performs the following tasks:
 1. **Obstacle Detection**: Utilizes the ultrasonic distance sensor to detect obstacles in front of the car. It adjusts the car's movement to avoid collisions.
 
 2. **Gas Level Monitoring**: Monitors the gas sensor's analog input to detect harmful gas levels. If the gas value exceeds a threshold, the car stops and displays a warning message.

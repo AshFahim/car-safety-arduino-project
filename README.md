@@ -22,6 +22,7 @@ The Robotic Car Safety System is a sophisticated project designed to augment the
 Libraries used:
 
   -Arduino-LiquidCrystal-I2C-library
+  
   -DHT-sensor-library
 
   The system performs the following tasks:

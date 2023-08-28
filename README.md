@@ -19,7 +19,8 @@ The Robotic Car Safety System is a sophisticated project designed to augment the
 - Motor Controller Module (L298N)
 - Various LEDs and buzzers
 
-Libraries used: 
+  Libraries used:
+  
 -Arduino-LiquidCrystal-I2C-library
 -DHT-sensor-library
 

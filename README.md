@@ -19,10 +19,10 @@ The Robotic Car Safety System is a sophisticated project designed to augment the
 - Motor Controller Module (L298N)
 - Various LEDs and buzzers
 
-  Libraries used:
-  
--Arduino-LiquidCrystal-I2C-library
--DHT-sensor-library
+Libraries used:
+
+  -Arduino-LiquidCrystal-I2C-library
+  -DHT-sensor-library
 
   The system performs the following tasks:
 1. **Obstacle Detection**: Utilizes the ultrasonic distance sensor to detect obstacles in front of the car. It adjusts the car's movement to avoid collisions.
